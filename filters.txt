@@ -5,6 +5,7 @@
 /\.akasyam\./
 /\.ulketv\./
 /\.gzt\./ 
+/\.trendyol\./
 /\.ensonhaber\./
 /\.trthaber\./
 /\.akittv\./
