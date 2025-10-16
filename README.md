@@ -7,8 +7,7 @@
 Esenlikler 👋  
 Bu repo, internette gezinirken gereksiz ve yanıltıcı siteleri arama motorlarından gizlemenize yardımcı olan uBlackList filtreleri içermektir.
 
-> ⚠️ Not: Arama sonuçlarındaki engellenen siteleri görmek için, uBlackList uzantısı > Show blocked search results seçeceğini etkinleştirin.
-
+> ⚠️ Not: Arama sonuçlarındaki engellenen siteleri görmek için sağ üstteki eklenti simgesine tıklayın.
 ---
 
 ## 📌 Neden Bu Liste?
