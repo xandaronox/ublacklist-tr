@@ -8,6 +8,7 @@
 /\.ulketv\./
 /\.gzt\./ 
 /\.shiftdelete\./
+/\.hurriyet\./
 /\.trendyol\./
 /\.ensonhaber\./
 /\.trthaber\./
