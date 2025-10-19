@@ -9,11 +9,6 @@
 /\.bilinclituketim\./
 /\.borcka-haber\./
 /\.boykot\./
-/\.boykothareketi\./
-/\.boykotdedektifi\./
-/\.boykotrehberi\./
-/\.boykoturunleri\./
-/\.boykotyolu\./
 /\.boycottlist\./
 /\.beykozguncel\./
 /\.dirilispostasi\./
