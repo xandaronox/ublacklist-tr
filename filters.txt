@@ -7,7 +7,6 @@
 /\.atv\./
 /\.batmanrehbergazetesi\./
 /\.borcka-haber\./
-/\.boykot\./
 /\.dirilispostasi\./
 /\.ensonhaber\./
 /\.floryagazetesi\./
@@ -45,6 +44,7 @@
 *://beykozguncel.com/*
 *://bilinclituketim.com/*
 *://boycottlist.me/*
+*://boykot.co/*
 *://boykotdedektifi.org/*
 *://boykothareketi.com/*
 *://boykotrehberi.com/*
