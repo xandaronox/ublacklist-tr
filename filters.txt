@@ -44,14 +44,14 @@
 *://beykozguncel.com/*
 *://bilinclituketim.com/*
 *://boycottlist.me/*
-*://boykot.co/*
 *://boykotdedektifi.org/*
 *://boykothareketi.com/*
 *://boykotrehberi.com/*
 *://boykoturunleri.com.tr/*
-*://boykotyap.org.tr/*
 *://boykotyolu.com.tr/*
 *://boykottr.com/*
+*://boykot.co/*
+*://boykotyap.org.tr/*
 *://gazeteyenisoz.com/*
 *://gencmuslumanlar.com/*
 *://harbigazete.com.tr/*
