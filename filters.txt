@@ -17,6 +17,8 @@
 /\.kanal7\./
 /\.kanald\./
 /\.boykot\./
+*://www.boykottr.com/*
+*://www.boykotyap.org.tr/*
 *://boykothareketi.com/*
 *://boykotdedektifi.org/*
 *://boycottlist.me/*
