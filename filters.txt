@@ -1,6 +1,8 @@
 /\.ahaber\./
 /\.akasyam\./
 /\.akittv\./
+/\.boykot\./
+/\.boykottr\./
 /\.aksam\./
 /\.antephaberleri\./
 /\.arguvan-siyaset-haberleri\./
@@ -49,8 +51,6 @@
 *://boykotrehberi.com/*
 *://boykoturunleri.com.tr/*
 *://boykotyolu.com.tr/*
-*://boykottr.com/*
-*://boykot.co/*
 *://boykotyap.org.tr/*
 *://gazeteyenisoz.com/*
 *://gencmuslumanlar.com/*
